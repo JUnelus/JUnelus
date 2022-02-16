@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/jimmy-unelus/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm Haitian American
+- ⚡ Fun fact: ... I love Haitian Food
 -->
