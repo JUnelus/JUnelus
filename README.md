@@ -1,13 +1,14 @@
-### Hi there!, Here is what I'm working on. 👋
+## Hello, and Welcome! 👋
 
-Here are some ideas to get you started:
+I'm excited to share a bit about myself and my current projects.
 
-- 🔭 I’m currently working on ... Data Engineering and Testing Software
-- 🌱 I’m currently learning ... AI & Machine Learning
-- 👯 I’m looking to collaborate on ... Machine Learning
-- 🤔 I’m looking for help with ... JavaScript/TypeScript
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/jimmy-unelus/)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I love Haitian Food
--->
+- 🔭 **Currently Working On:** Data Engineering and Software Testing
+- 🌱 **Actively Learning:** Artificial Intelligence & Machine Learning
+- 👯 **Open to Collaborations In:** Machine Learning Projects
+- 🤔 **Seeking Guidance In:** AWS Cloud Development
+- 💬 **Feel Free to Ask About:** Technology, Data, and Software Engineering
+- 📫 **Connect with Me on LinkedIn:** [Jimmy Unelus](https://www.linkedin.com/in/jimmy-unelus/)
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun Fact:** I’m passionate about Haitian cuisine!
+
+Looking forward to connecting and collaborating!
