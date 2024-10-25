@@ -6,7 +6,7 @@ I'm excited to share a bit about myself and my current projects.
 - 🌱 **Actively Learning:** Artificial Intelligence & Machine Learning
 - 👯 **Open to Collaborations In:** Machine Learning Projects
 - 🤔 **Seeking Guidance In:** AWS Cloud Development
-- 💬 **Feel Free to Ask About:** Technology, Data, and Software Engineering
+- 💬 **Feel Free to Ask About:** Technology, Data, Software Engineering, AI, Marvel, DC, and Anime
 - 📫 **Connect with Me on LinkedIn:** [Jimmy Unelus](https://www.linkedin.com/in/jimmy-unelus/)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** I’m passionate about Haitian cuisine!
