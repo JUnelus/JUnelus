@@ -1,7 +1,7 @@
 # Jimmy Unelus — Data Engineer · QA Automation · FinTech 👋
 
 I build reliable, low-latency data systems and test automation for trading, risk, and analytics.  
-15+ years in capital markets & fintech (BNY Mellon, Continental, Lukka). GCP Professional Data Engineer.
+15+ years in capital markets & fintech. GCP Professional Data Engineer.
 
 ---
 
