@@ -46,7 +46,7 @@ I build reliable, low-latency data systems and test automation for trading, risk
 
 ## Certifications
 - Google Cloud **Professional Data Engineer** (active)
-
+- **ISTQB Foundation Level Certification** (active)
 ---
 
 ## Let’s connect
